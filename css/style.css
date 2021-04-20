@@ -82,8 +82,11 @@ li {
 
 .sub-list-true::before {
     content: "\2705";
+    margin-right: 10px;
 }
 
-..sub-list-false::before {
+.sub-list-false::before {
+    content: "\00274C" ;
+    margin-right: 10px;
     
 }
