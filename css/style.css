@@ -1,8 +1,13 @@
+body {
+    background-color: rgb(223, 223, 223);
+    margin: 0 auto;
+}
+
+
 /* inizio header */
 #barra-logo {
     height: 100px;
     background-color:white;
-    border: 5px solid black;
     line-height: 100px;
 }
 
@@ -17,5 +22,11 @@
     display: inline-block;
     font-weight: bolder;
     vertical-align: middle;
-    /* fine header */
+}
+/* fine header */
+
+
+/* inizio main */
+.contenitore {
+    ;
 }
