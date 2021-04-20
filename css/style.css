@@ -29,7 +29,7 @@ body {
 /* inizio main */
 .contenitore {
     background-color: white;
-    height: 800px;
+    height: 100%;
     width: 80%;
     margin: auto;
     margin-top: 120px;
@@ -148,3 +148,4 @@ color: white;
     padding: 10px;
     color: white;
 }
+/* fine liste e sottoliste */
