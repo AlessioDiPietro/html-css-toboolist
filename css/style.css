@@ -28,5 +28,34 @@ body {
 
 /* inizio main */
 .contenitore {
-    ;
+    background-color: white;
+    height: 800px;
+    width: 80%;
+    margin: auto;
+    margin-top: 120px;
+    border-radius: 2%;
+}
+
+/* inizio bottoni */
+.puls-task {
+    height: 30px;
+    width: 100px;
+    display: inline-block;
+    background-color: lightskyblue;
+    border-radius: 5px;
+    margin: 25px 0px 40px 80px;
+    color: white;
+}
+
+.puls-section {
+    height: 30px;
+    width: 130px;
+    display: inline-block;
+    border-radius: 5px;
+    background-color: white;
+    color: grey;
+}
+
+#divisorio{
+border-top: 2px solid rgb(223, 223, 223);
 }
